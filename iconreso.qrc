@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/musicback.png</file>
+    <file>icons/icons8_search_20px_1.png</file>
+    <file>images/videotut.jpg</file>
+    <file>icons/icons8_search_20px_2.png</file>
+    <file>icons/videoback.fw.png</file>
+    <file>icons/icons8_settings_20px.png</file>
+    <file>icons/icons8_info_squared_20px.png</file>
+    <file>icons/icons8_time_machine_20px.png</file>
+    <file>icons/icons8_Close_20px.png</file>
+    <file>icons/icons8_Close_20px_1.png</file>
+    <file>icons/icons8_crescent_moon_20px.png</file>
+    <file>icons/icons8_language_skill_20px.png</file>
+    <file>icons/icons8_music_20px.png</file>
+    <file>icons/icons8_music_video_20px.png</file>
+    <file>icons/icons8_paint_palette_20px.png</file>
+    <file>icons/icons8_subtract_20px_1.png</file>
+    <file>icons/icons8_subtract_20px_2.png</file>
+    <file>icons/icons8_sun_20px_1.png</file>
+    <file>icons/icons8_video_call_20px.png</file>
+    <file>icons/icons8_video_clip_20px_2.png</file>
+    <file>icons/icons8_video_playlist_48px.png</file>
+    <file>icons/icons8_YouTube_48px_2.png</file>
+  </qresource>
+</RCC>

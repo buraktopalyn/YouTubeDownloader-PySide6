@@ -1,0 +1,1 @@
+pyrcc5 iconreso.qrc -o iconreso_rc.py
